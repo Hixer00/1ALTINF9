@@ -21,9 +21,6 @@ public class Employe {
         return cin;
     }
 
-    public void setCin(String cin) {
-        this.cin = cin;
-    }
 
     public String getMatricule() {
         return matricule;
